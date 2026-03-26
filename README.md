@@ -1,18 +1,21 @@
 - 👋 Hi, I,m Likhithanjali!
-- 🎓 I'm a Computer Science Engineering student passionate about learning and building impactful projects.
-- 👩‍💻 I enjoy working on web development, databases, and innovative technologies like virtual assistants.
-- 🌟 I'm constantly improving my skills in programming, problem-solving, and open-source contributions.
-- 🌱 I’m currently learning DSA in Java
+- 🎓 I'm a Computer Science Engineering student
+- ☁️ Aspiring Cloud & DevOps Engineer & Network Engineer
 ---
 
 
-## 🛠️ Tech Stack  
-**Languages:** HTML, CSS, JavaScript, MySQL,Java  
-**Tools:** Git, GitHub, VS Code  
+## 🛠️ Skills
+- AWS (S3, EC2, VPC, Load Balancer, Auto Scaling, CloudWatch)
+- Linux
+- Networking (CCNA basics)
+- DevOps Basics
+- HTML, CSS, JavaScriptT        
+---
+## Tools: Git, GitHub, VS Code , AWS , Cisco 
 
 
 ---
 
 ## 📫 Connect with Me  
 📩 Email:anjaliprathapbaynaboina@gmail.com  
-💼 LinkedIn:https://linkedin.com/in/bayanaboina-anjali-prathap-a07569280  
+💼 LinkedIn:https://www.linkedin.com/in/likhithanjali-bayanaboina/  
